@@ -1,0 +1,3 @@
+export const SAVEDATA='SAVEDATA'
+export const DELETEDATA='DELETEDATA'
+export const EDITDATA='EDITDATA'
